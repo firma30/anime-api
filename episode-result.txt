@@ -1,0 +1,253 @@
+﻿{
+    "statusCode":  200,
+    "statusMessage":  "OK",
+    "message":  "",
+    "data":  {
+                 "details":  {
+                                 "title":  "Oni no Hanayome Episode 12 (End) Subtitle Indonesia",
+                                 "animeId":  "oni-hanayome-sub-indo",
+                                 "releaseTime":  "2:57 PM",
+                                 "defaultStreamingUrl":  "https://desustream.com/dstream/otakuwatch7/new/index.php?id=Unc3a1k1U1d0dXV5Mk0xQVlURGxjSlBMeXBFekRyL01nN3AyOXlXRW1nVT0=",
+                                 "hasPrevEpisode":  true,
+                                 "prevEpisode":  {
+                                                     "title":  "Prev",
+                                                     "episodeId":  "onhmye-episode-11-sub-indo",
+                                                     "otakudesuUrl":  "https://otakudesu.blog/episode/onhmye-episode-11-sub-indo/"
+                                                 },
+                                 "hasNextEpisode":  false,
+                                 "nextEpisode":  null,
+                                 "server":  {
+                                                "title":  "Server",
+                                                "qualityList":  [
+                                                                    {
+                                                                        "title":  "",
+                                                                        "serverList":  [
+
+                                                                                       ]
+                                                                    },
+                                                                    {
+                                                                        "title":  " Mirror 480p",
+                                                                        "serverList":  [
+                                                                                           {
+                                                                                               "title":  "otakuwatch7",
+                                                                                               "serverId":  "eyJpZCI6MjA1OTU0LCJpIjowLCJxIjoiNDgwcCIsIm5vbmNlIjoiMDFkMjBiODBlNSIsImFjdGlvbiI6IjJhMzUwNWM5M2IwMDM1ZDNmNDU1ZGY4MmJmOTc2Yjg0IiwicmVmZXJlciI6Imh0dHBzOi8vb3Rha3VkZXN1LmJsb2cvZXBpc29kZS9vbmhteWUtZXBpc29kZS0xMi1zdWItaW5kby8ifQ"
+                                                                                           },
+                                                                                           {
+                                                                                               "title":  "odstream",
+                                                                                               "serverId":  "eyJpZCI6MjA1OTU0LCJpIjoxLCJxIjoiNDgwcCIsIm5vbmNlIjoiMDFkMjBiODBlNSIsImFjdGlvbiI6IjJhMzUwNWM5M2IwMDM1ZDNmNDU1ZGY4MmJmOTc2Yjg0IiwicmVmZXJlciI6Imh0dHBzOi8vb3Rha3VkZXN1LmJsb2cvZXBpc29kZS9vbmhteWUtZXBpc29kZS0xMi1zdWItaW5kby8ifQ"
+                                                                                           },
+                                                                                           {
+                                                                                               "title":  "vidhide",
+                                                                                               "serverId":  "eyJpZCI6MjA1OTU0LCJpIjoyLCJxIjoiNDgwcCIsIm5vbmNlIjoiMDFkMjBiODBlNSIsImFjdGlvbiI6IjJhMzUwNWM5M2IwMDM1ZDNmNDU1ZGY4MmJmOTc2Yjg0IiwicmVmZXJlciI6Imh0dHBzOi8vb3Rha3VkZXN1LmJsb2cvZXBpc29kZS9vbmhteWUtZXBpc29kZS0xMi1zdWItaW5kby8ifQ"
+                                                                                           },
+                                                                                           {
+                                                                                               "title":  "mega",
+                                                                                               "serverId":  "eyJpZCI6MjA1OTU0LCJpIjozLCJxIjoiNDgwcCIsIm5vbmNlIjoiMDFkMjBiODBlNSIsImFjdGlvbiI6IjJhMzUwNWM5M2IwMDM1ZDNmNDU1ZGY4MmJmOTc2Yjg0IiwicmVmZXJlciI6Imh0dHBzOi8vb3Rha3VkZXN1LmJsb2cvZXBpc29kZS9vbmhteWUtZXBpc29kZS0xMi1zdWItaW5kby8ifQ"
+                                                                                           }
+                                                                                       ]
+                                                                    },
+                                                                    {
+                                                                        "title":  " Mirror 720p",
+                                                                        "serverList":  [
+                                                                                           {
+                                                                                               "title":  "otakuwatch7hd",
+                                                                                               "serverId":  "eyJpZCI6MjA1OTU0LCJpIjowLCJxIjoiNzIwcCIsIm5vbmNlIjoiMDFkMjBiODBlNSIsImFjdGlvbiI6IjJhMzUwNWM5M2IwMDM1ZDNmNDU1ZGY4MmJmOTc2Yjg0IiwicmVmZXJlciI6Imh0dHBzOi8vb3Rha3VkZXN1LmJsb2cvZXBpc29kZS9vbmhteWUtZXBpc29kZS0xMi1zdWItaW5kby8ifQ"
+                                                                                           },
+                                                                                           {
+                                                                                               "title":  "odstreamhd",
+                                                                                               "serverId":  "eyJpZCI6MjA1OTU0LCJpIjoxLCJxIjoiNzIwcCIsIm5vbmNlIjoiMDFkMjBiODBlNSIsImFjdGlvbiI6IjJhMzUwNWM5M2IwMDM1ZDNmNDU1ZGY4MmJmOTc2Yjg0IiwicmVmZXJlciI6Imh0dHBzOi8vb3Rha3VkZXN1LmJsb2cvZXBpc29kZS9vbmhteWUtZXBpc29kZS0xMi1zdWItaW5kby8ifQ"
+                                                                                           },
+                                                                                           {
+                                                                                               "title":  "vidhide",
+                                                                                               "serverId":  "eyJpZCI6MjA1OTU0LCJpIjoyLCJxIjoiNzIwcCIsIm5vbmNlIjoiMDFkMjBiODBlNSIsImFjdGlvbiI6IjJhMzUwNWM5M2IwMDM1ZDNmNDU1ZGY4MmJmOTc2Yjg0IiwicmVmZXJlciI6Imh0dHBzOi8vb3Rha3VkZXN1LmJsb2cvZXBpc29kZS9vbmhteWUtZXBpc29kZS0xMi1zdWItaW5kby8ifQ"
+                                                                                           },
+                                                                                           {
+                                                                                               "title":  "mega",
+                                                                                               "serverId":  "eyJpZCI6MjA1OTU0LCJpIjozLCJxIjoiNzIwcCIsIm5vbmNlIjoiMDFkMjBiODBlNSIsImFjdGlvbiI6IjJhMzUwNWM5M2IwMDM1ZDNmNDU1ZGY4MmJmOTc2Yjg0IiwicmVmZXJlciI6Imh0dHBzOi8vb3Rha3VkZXN1LmJsb2cvZXBpc29kZS9vbmhteWUtZXBpc29kZS0xMi1zdWItaW5kby8ifQ"
+                                                                                           }
+                                                                                       ]
+                                                                    }
+                                                                ]
+                                            },
+                                 "download":  {
+                                                  "title":  "Download",
+                                                  "qualityList":  [
+                                                                      {
+                                                                          "title":  "360p",
+                                                                          "size":  "31.7 MB",
+                                                                          "urlList":  [
+                                                                                          {
+                                                                                              "title":  "PDrain",
+                                                                                              "url":  "https://link.desustream.com/?id=d2JkL0hDRWxReWo4YUlhaDBYdk5ab1pJbEpWWVBKWmZTRUJNMEUraGhMSDM="
+                                                                                          },
+                                                                                          {
+                                                                                              "title":  "Viking",
+                                                                                              "url":  "https://link.desustream.com/?id=d2JkL0hDRWxReWpvWkkyeDJXM1djWW9JMlpsYWZzOUJTQ3AzMVJiS29xckxCSlV1eW9veA=="
+                                                                                          },
+                                                                                          {
+                                                                                              "title":  "VidHide",
+                                                                                              "url":  "https://link.desustream.com/?id=d2JkL0hDRWxReWpvWkkyeDJXM1djWW9JMlpsYWZ0OUdTQ3AzMVJhWHhhSEFCWnNDeTljdjkxOD0="
+                                                                                          },
+                                                                                          {
+                                                                                              "title":  "Mega",
+                                                                                              "url":  "https://link.desustream.com/?id=d2JkL0hDRWxReWpoWkptbGszSEZLSWxQMXBNWUhzMU5EaVI4K21yUnkvQ1hFWUFjL3NBWCtYa1hwSXRXOWtSd0lJOHg3MXk2YWFOVHhPa1E0RVp5dGpxNm9EZjNrSWtMNXc9PQ=="
+                                                                                          },
+                                                                                          {
+                                                                                              "title":  "Mp4Up",
+                                                                                              "url":  "https://link.desustream.com/?id=d2JkL0hDRWxReWo3ZG9ucTBHK0xjcDlLMVpkVGY5cEZDanB6aEVxQndxbmVXb0lNeXNnPQ=="
+                                                                                          }
+                                                                                      ]
+                                                                      },
+                                                                      {
+                                                                          "title":  "480p",
+                                                                          "size":  "52.9 MB",
+                                                                          "urlList":  [
+                                                                                          {
+                                                                                              "title":  "PDrain",
+                                                                                              "url":  "https://link.desustream.com/?id=d2JkL0hDRWxReWo4YUlhaDBYdk5ab1pJbEpWWVBKWmZTRzF3dzI2RXdmVGU="
+                                                                                          },
+                                                                                          {
+                                                                                              "title":  "Viking",
+                                                                                              "url":  "https://link.desustream.com/?id=d2JkL0hDRWxReWpvWkkyeDJXM1djWW9JMlpsYWZzOUJTQ3AzMVJiTGxJYmVWODRjbFBWeA=="
+                                                                                          },
+                                                                                          {
+                                                                                              "title":  "VidHide",
+                                                                                              "url":  "https://link.desustream.com/?id=d2JkL0hDRWxReWpvWkkyeDJXM1djWW9JMlpsYWZ0OUdTQ3AzMVJhYWtQVEhXOEVibmQxd3VGST0="
+                                                                                          },
+                                                                                          {
+                                                                                              "title":  "Mega",
+                                                                                              "url":  "https://link.desustream.com/?id=d2JkL0hDRWxReWpoWkptbGszSEZLSWxQMXBNWUd0RjdWVkpkOVVyUmdiWFlEc2sveXVWbGdGSUIyclYvK1VrckwrSS84M3EzY1lOSDNNVWU3a0pTaVFHdnV3N3ZtclY5d1E9PQ=="
+                                                                                          },
+                                                                                          {
+                                                                                              "title":  "Mp4Up",
+                                                                                              "url":  "https://link.desustream.com/?id=d2JkL0hDRWxReWo3ZG9ucTBHK0xjcDlLMVpkVGY5cEZDam9xZ2g3S3hxRFdWOGtHd1lFPQ=="
+                                                                                          }
+                                                                                      ]
+                                                                      },
+                                                                      {
+                                                                          "title":  "720p",
+                                                                          "size":  "95.8 MB",
+                                                                          "urlList":  [
+                                                                                          {
+                                                                                              "title":  "PDrain",
+                                                                                              "url":  "https://link.desustream.com/?id=d2JkL0hDRWxReWo4YUlhaDBYdk5ab1pJbEpWWVBKWmZTRzE3Mlh5Q2hMYmc="
+                                                                                          },
+                                                                                          {
+                                                                                              "title":  "Viking",
+                                                                                              "url":  "https://link.desustream.com/?id=d2JkL0hDRWxReWpvWkkyeDJXM1djWW9JMlpsYWZzOUJTQ3AzMVJhMW41SCtMNjBJd2ZzQg=="
+                                                                                          },
+                                                                                          {
+                                                                                              "title":  "VidHide",
+                                                                                              "url":  "https://link.desustream.com/?id=d2JkL0hDRWxReWpvWkkyeDJXM1djWW9JMlpsYWZ0OUdTQ3AzMVJhV2hmWGZBWXNleE5za3RsTT0="
+                                                                                          },
+                                                                                          {
+                                                                                              "title":  "Mega",
+                                                                                              "url":  "https://link.desustream.com/?id=d2JkL0hDRWxReWpoWkptbGszSEZLSWxQMXBNWUdkSkZQMTFjMkduUmhLdWVFWjRQeVlNOW54a0hwNnhYNkVweEVPUkIya2ZlVUxWR3dkd1Y3bTRSbEVuRXBTSHBscVlqeFE9PQ=="
+                                                                                          },
+                                                                                          {
+                                                                                              "title":  "Mp4Up",
+                                                                                              "url":  "https://link.desustream.com/?id=d2JkL0hDRWxReWo3ZG9ucTBHK0xjcDlLMVpkVGY5cEZDam9yd2hqRWlmTFpXc0FKbW9FPQ=="
+                                                                                          }
+                                                                                      ]
+                                                                      }
+                                                                  ]
+                                              },
+                                 "info":  {
+                                              "credit":  "Doronime",
+                                              "encoder":  "Desu",
+                                              "duration":  "24 Menit",
+                                              "type":  "TV",
+                                              "genreList":  [
+                                                                {
+                                                                    "title":  "Drama",
+                                                                    "genreId":  "drama",
+                                                                    "otakudesuUrl":  "https://otakudesu.blog/genres/drama/"
+                                                                },
+                                                                {
+                                                                    "title":  "Fantasy",
+                                                                    "genreId":  "fantasy",
+                                                                    "otakudesuUrl":  "https://otakudesu.blog/genres/fantasy/"
+                                                                },
+                                                                {
+                                                                    "title":  "Mythology",
+                                                                    "genreId":  "mythology",
+                                                                    "otakudesuUrl":  "https://otakudesu.blog/genres/mythology/"
+                                                                },
+                                                                {
+                                                                    "title":  "Romance",
+                                                                    "genreId":  "romance",
+                                                                    "otakudesuUrl":  "https://otakudesu.blog/genres/romance/"
+                                                                },
+                                                                {
+                                                                    "title":  "Urban Fantasy",
+                                                                    "genreId":  "urban-fantasy",
+                                                                    "otakudesuUrl":  "https://otakudesu.blog/genres/urban-fantasy/"
+                                                                }
+                                                            ],
+                                              "episodeList":  [
+                                                                  {
+                                                                      "title":  "12",
+                                                                      "episodeId":  "onhmye-episode-12-sub-indo",
+                                                                      "otakudesuUrl":  "https://otakudesu.blog/episode/onhmye-episode-12-sub-indo/"
+                                                                  },
+                                                                  {
+                                                                      "title":  "11",
+                                                                      "episodeId":  "onhmye-episode-11-sub-indo",
+                                                                      "otakudesuUrl":  "https://otakudesu.blog/episode/onhmye-episode-11-sub-indo/"
+                                                                  },
+                                                                  {
+                                                                      "title":  "10",
+                                                                      "episodeId":  "onhmye-episode-10-sub-indo",
+                                                                      "otakudesuUrl":  "https://otakudesu.blog/episode/onhmye-episode-10-sub-indo/"
+                                                                  },
+                                                                  {
+                                                                      "title":  "9",
+                                                                      "episodeId":  "onhmye-episode-9-sub-indo",
+                                                                      "otakudesuUrl":  "https://otakudesu.blog/episode/onhmye-episode-9-sub-indo/"
+                                                                  },
+                                                                  {
+                                                                      "title":  "8",
+                                                                      "episodeId":  "onhmye-episode-8-sub-indo",
+                                                                      "otakudesuUrl":  "https://otakudesu.blog/episode/onhmye-episode-8-sub-indo/"
+                                                                  },
+                                                                  {
+                                                                      "title":  "7",
+                                                                      "episodeId":  "onhmye-episode-7-sub-indo",
+                                                                      "otakudesuUrl":  "https://otakudesu.blog/episode/onhmye-episode-7-sub-indo/"
+                                                                  },
+                                                                  {
+                                                                      "title":  "6",
+                                                                      "episodeId":  "onhmye-episode-6-sub-indo",
+                                                                      "otakudesuUrl":  "https://otakudesu.blog/episode/onhmye-episode-6-sub-indo/"
+                                                                  },
+                                                                  {
+                                                                      "title":  "5",
+                                                                      "episodeId":  "onhmye-episode-5-sub-indo",
+                                                                      "otakudesuUrl":  "https://otakudesu.blog/episode/onhmye-episode-5-sub-indo/"
+                                                                  },
+                                                                  {
+                                                                      "title":  "4",
+                                                                      "episodeId":  "onhmye-episode-4-sub-indo",
+                                                                      "otakudesuUrl":  "https://otakudesu.blog/episode/onhmye-episode-4-sub-indo/"
+                                                                  },
+                                                                  {
+                                                                      "title":  "3",
+                                                                      "episodeId":  "onhmye-episode-3-sub-indo",
+                                                                      "otakudesuUrl":  "https://otakudesu.blog/episode/onhmye-episode-3-sub-indo/"
+                                                                  },
+                                                                  {
+                                                                      "title":  "2",
+                                                                      "episodeId":  "onhmye-episode-2-sub-indo",
+                                                                      "otakudesuUrl":  "https://otakudesu.blog/episode/onhmye-episode-2-sub-indo/"
+                                                                  },
+                                                                  {
+                                                                      "title":  "1",
+                                                                      "episodeId":  "onhmye-episode-1-sub-indo",
+                                                                      "otakudesuUrl":  "https://otakudesu.blog/episode/onhmye-episode-1-sub-indo/"
+                                                                  }
+                                                              ]
+                                          }
+                             }
+             },
+    "pagination":  null
+}
