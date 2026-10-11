@@ -5,7 +5,7 @@ import https from "node:https";
 export const userAgent =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0";
 
-function requestHTML(
+function requestWithHttps(
   url: URL,
   headers: Record<string, string>,
   redirectCount = 0,
@@ -18,13 +18,10 @@ function requestHTML(
 
     const request = https.get(
       url,
-      {
-        headers,
-      },
+      { headers },
       (response) => {
         const statusCode = response.statusCode ?? 0;
 
-        // Follow redirect
         if (
           [301, 302, 303, 307, 308].includes(statusCode) &&
           response.headers.location
@@ -33,7 +30,7 @@ function requestHTML(
 
           response.resume();
 
-          requestHTML(redirectUrl, headers, redirectCount + 1)
+          requestWithHttps(redirectUrl, headers, redirectCount + 1)
             .then(resolve)
             .catch(reject);
 
@@ -51,7 +48,9 @@ function requestHTML(
         response.on("end", () => {
           if (statusCode < 200 || statusCode >= 300) {
             reject(
-              new Error(`HTTP ${statusCode} ketika mengambil ${url.toString()}`),
+              new Error(
+                `HTTP ${statusCode} ketika mengambil ${url.toString()}`,
+              ),
             );
             return;
           }
@@ -75,13 +74,11 @@ export default async function getHTML(
 
   const headers: Record<string, string> = {
     "User-Agent": userAgent,
-    Accept:
-      "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-    "Accept-Language": "en-US,en;q=0.9",
   };
 
   if (ref) {
-    headers.Referer = ref.startsWith("http")
+    // Sengaja mengikuti behavior repo original.
+    headers.Refferer = ref.startsWith("http")
       ? ref
       : new URL(ref, baseUrl).toString();
   }
@@ -89,7 +86,22 @@ export default async function getHTML(
   let html: string;
 
   try {
-    html = await requestHTML(url, headers);
+    if (typeof fetch === "function") {
+      const response = await fetch(url, {
+        headers,
+        redirect: "manual",
+      });
+
+      if (!response.ok) {
+        response.status > 399
+          ? errorinCuy(response.status)
+          : errorinCuy(404);
+      }
+
+      html = await response.text();
+    } else {
+      html = await requestWithHttps(url, headers);
+    }
   } catch (error) {
     console.error("Gagal mengambil HTML:", error);
     errorinCuy(500);
@@ -124,6 +136,7 @@ export default async function getHTML(
         "figure",
         "hr",
         "li",
+        "main",
         "ol",
         "p",
         "pre",
